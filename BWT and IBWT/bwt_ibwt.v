@@ -316,6 +316,10 @@ else
 
 endmodule
 
+
+//      TESTBENCH    //
+
+
 `timescale 1ns / 1ps
 module Tb();
 reg clk,rst,set,S;
